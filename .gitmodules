@@ -1,0 +1,3 @@
+[submodule "Horsey/vendor/spdlog"]
+	path = Horsey/vendor/spdlog
+	url = https://github.com/gabime/spdlog
